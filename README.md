@@ -1,5 +1,5 @@
 Landing Page - ZeroNoise
-
+ 
 Descripción del Proyecto
 Landing page diseñada para el challenge de participación del curso. Esta solución digital presenta los servicios de una empresa de tecnología enfocada en soluciones de reducción de ruido y optimización de procesos.
 
